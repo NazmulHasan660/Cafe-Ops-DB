@@ -1,2 +1,20 @@
-# coffeeshop_management_system
-Coffee Shop Management System is a fully featured web application designed to streamline the day-to-day operations of a coffee shop. Built using PHP, MySQL, HTML, CSS, and JavaScript, this system provides an easy-to-use interface for administrators, employees, and customers to manage products, orders, employees, and sales efficiently.
+# ☕ CafeOps DB – Coffee Shop Management System (MySQL)
+✨ Features
+- Customer Order Management
+- Product & Menu Management
+- Inventory Tracking System
+- Staff Records Management
+- Sales & Transaction Recording
+- Relational Database Design (Normalized Tables)
+- SQL Queries for Data Retrieval & Analysis
+
+- 🛠 Tech Stack
+- Database: MySQL
+- Language: SQL
+- Tools: MySQL Workbench / phpMyAdmin
+- Concepts Used:
+  - ER Diagram Design
+  - Normalization (1NF, 2NF, 3NF)
+  - Joins (INNER, LEFT, RIGHT)
+  - Aggregate Functions
+  - Stored Queries
